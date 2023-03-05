@@ -8,4 +8,4 @@ You can checkout his other designs in
 
 ## The pedal
 ### Project's link is [here](https://grabcad.com/library/wireless-communication-steering-wheel-project-pedal-part-trial-1)
-![The pedal]( pedals/Pedal.png)<br/><br/>
+![The pedal]( Pedals/Pedal.png)<br/><br/>
