@@ -1,9 +1,9 @@
-# 3D parts of this project is at Grabcad
+# 3D parts
 <br/>
-Designed By Faruk Settaşı
+3D Parts of this project is at Grabcad It is designed By Faruk Settaşı<br>
 You can checkout his other designs in
 
-[Here](https://grabcad.com/faruk.settasi-3/models).
+[here](https://grabcad.com/faruk.settasi-3/models).
 <br> <br>
 
 ## The pedal
